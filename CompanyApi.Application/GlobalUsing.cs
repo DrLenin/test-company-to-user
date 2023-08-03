@@ -1,0 +1,9 @@
+﻿global using MediatR;
+global using TestApp.Infrastructure.Commands;
+global using AutoMapper;
+global using MassTransit;
+global using TestApp.Models.Entities;
+global using TestApp.Models.RabbitMqDTO;
+global using TestApp.Store;
+global using TestApp.Infrastructure.Result;
+global using TestApp.Store.Repositories;
